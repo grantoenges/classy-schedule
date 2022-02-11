@@ -1,9 +1,0 @@
-[submodule "webtest"]
-	path = web
-	url = https://github.com/PokkeFe/cisc480-web
-[submodule "DatabaseTeam"]
-	path = DatabaseTeam
-	url = https://github.com/post3024/DatabaseTeam.git
-[submodule "classy-schedule-mobile"]
-	path = classy-schedule-mobile
-	url = https://github.com/grantoenges/classy-schedule-mobile.git
