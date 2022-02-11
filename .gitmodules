@@ -1,5 +1,5 @@
 [submodule "webtest"]
-	path = cisc480-web
+	path = web
 	url = https://github.com/PokkeFe/cisc480-web
 [submodule "DatabaseTeam"]
 	path = DatabaseTeam
