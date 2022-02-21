@@ -1,0 +1,13 @@
+//Azure 
+
+For our cloud-based server we selected Azure because it is free, compatible with MySQL, and it is a commonly used cloud-based server service. For the setup of the server our group
+settled on the fewest number of computing cores and the lowest storage amount. This decreased our expected cost per month so that we will be well within our free resources granted
+by the azure student account. We expect that the lowest settings for this server would be more than sufficient to accommodate our prospective database. 
+
+//MySQL 
+
+For a database management system, we ended up settling on using MySQL. The three main reasons for this were because it is open source, and it is easily compatible with our
+Microsoft Azure cloud-based server, and because it is an industry standard for smaller sized companies. Since MySQL is open source, we do not have to be concerned with spending
+any money while using it and it will make it simple in terms of licensing. Secondly, Microsoft Azure had a cloud-based database specifically set up for MySQL. Meaning that setup
+would not be too complex. Finally, we felt our requirements aligned mostly with those of small companies; so, going with an industry standard for small companies made the most
+sense. 
