@@ -1,0 +1,3 @@
+# Ignore all dotfiles with an exception for the gitignore
+.*
+!.gitignore
