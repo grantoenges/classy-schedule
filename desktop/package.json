@@ -2,11 +2,33 @@
   "name": "classy-schedule-desktop",
   "version": "1.0.0",
   "description": "Classy Schedule desktop app",
-  "main": "main.js",
+  "main": "electron/main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "",
+  "author": "CISC 480 Desktop Team",
+  "contributors": [
+    {
+      "name": "Anshul Bharath",
+      "email": "anshul.bharath@gmail.com"
+    },
+    {
+      "name": "",
+      "email": ""
+    },
+    {
+      "name": "",
+      "email": ""
+    },
+    {
+      "name": "",
+      "email": ""
+    },
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "electron": "^17.1.0"
