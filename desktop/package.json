@@ -1,0 +1,14 @@
+{
+  "name": "classy-schedule-desktop",
+  "version": "1.0.0",
+  "description": "Classy Schedule desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^17.1.0"
+  }
+}
